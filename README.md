@@ -33,6 +33,17 @@ Started as a REVA design-thinking course project — now being built into a real
 - Obstacle-avoiding robot car (Arduino Uno + HC-SR04 + L298N)
 - Smart agriculture & farm intrusion detection system design (LoRa + ESP32-CAM + TensorFlow Lite)
 
+## Projects
+
+### AI-Based Smart Logistics and Accessibility Intelligence Platform
+An AI-powered platform designed to improve logistics, accessibility, and transportation intelligence in the North Eastern Region.
+
+### Auto Fix AI - Car Troubleshooting Assistant
+An AI-based assistant that helps car owners identify vehicle problems and find suitable solutions and nearby garages.
+
+### Personal Portfolio Website
+A personal portfolio website showcasing my skills, projects, certifications, and learning journey.
+
 ### Kharcha Khata
 A personal expense tracker app with a passbook-style aesthetic.
 
