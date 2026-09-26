@@ -1,1 +1,1 @@
-# SUSHANTH-GS
+#Hi, I am Sushanth G S, a B.Tech Artificial Intelligence and Data Science student at Reva University, Bengaluru. I am interested in Python, Artificial Intelligence, Data Science, Machine Learning, Web Technologies, and software development. I am continuously improving my programming and problem-solving skills by working on projects, learning new technologies, and participating in technical activities and hackathons.
