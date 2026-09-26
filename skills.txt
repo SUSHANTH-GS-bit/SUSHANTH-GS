@@ -1,0 +1,10 @@
+Python
+C
+SQL
+Data Science
+Artificial Intelligence
+Machine Learning
+HTML
+CSS
+JavaScript
+Git and GitHub
